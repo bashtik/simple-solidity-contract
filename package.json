@@ -1,0 +1,13 @@
+{
+  "name": "simple-solidity-contract",
+  "version": "1.0.0",
+  "description": "A simple Solidity smart contract",
+  "main": "truffle-config.js",
+  "scripts": {
+    "start": "truffle compile"
+  },
+  "dependencies": {
+    "truffle": "^5.9.0"
+  },
+  "license": "MIT"
+}
